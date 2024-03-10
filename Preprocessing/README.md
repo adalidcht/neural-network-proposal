@@ -17,7 +17,7 @@ To utilize the preprocessing module:
 2. Import the preprocessing functions from the provided module.
 3. Apply the desired preprocessing techniques to your fundus images before feeding them into the classification model.
 
-##Preprocessing
+## Preprocessing
 These data consist of fundus photographs, which were taken with different cameras, focusing, lighting, and qualities. This diversity highlights the importance of image preprocessing in the development of artificial intelligence systems for classification applications. Therefore, the first step in this preprocessing was to homogenize the data as much as possible.
 
 ### Region of Interest (ROI)
