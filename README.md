@@ -32,7 +32,7 @@ To homogenize the database, the characteristics of the images were established, 
 
 This setup allows the model to learn patterns and relationships present in the data during training, evaluate with unseen data during validation, and provide a final evaluation on completely new data during testing to obtain an objective measure of the model's capability.
 
-## [Preprocessing](neural-network-proposal/preprocessing/README.md)
-## [ResNet 50](neural-network-proposal/ResNet50/README.md)
-## [Neural Network Proposal](neural-network-proposal/NN-Proposal/README.md)
+## [Preprocessing](preprocessing/README.md)
+## [ResNet 50](ResNet50/README.md)
+## [Neural Network Proposal](NN-Proposal/README.md)
 
