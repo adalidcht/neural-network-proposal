@@ -7,7 +7,8 @@ Lastly, the integration of the developed architecture into a graphical interface
 ## Status
 For now, only the digital image preprocessing (preprocessing) and the ResNet model implemented in PyTorch Lightning are available in this repository.
 
-**Note:** This project is currently a work in progress.
+> [!Note]
+> This project is currently a work in progress.
 
 ## Database Structuring
 The images were gathered from the following databases:
