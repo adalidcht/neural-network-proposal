@@ -84,8 +84,6 @@ def roi(image, new_width,new_height):
 #----------------------
 #Código principal
 
-#Se carga el path de las imagenes
-image = imread('tu\path\aqui')
 #Tamaño del resize
 new_width,new_height = 512,512 
 #Uso de la función roi
